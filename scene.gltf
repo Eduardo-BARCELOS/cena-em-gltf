@@ -1328,9 +1328,7 @@
   ],
   "asset": {
     "extras": {
-      "author": "eduardobarcelos (https://sketchfab.com/eduardobarcelos)",
-      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/scene-one-e9ce1e7fad8c4af6b8fa83a96ade19b7",
+      
       "title": "Scene-one"
     },
     "generator": "Sketchfab-13.65.0",
